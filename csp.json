@@ -1,0 +1,5 @@
+{
+  "script-src": ["server.name.com"],
+  "connect-src": ["server.name.com"],
+  "style-src": ["server.name.com"]
+}
