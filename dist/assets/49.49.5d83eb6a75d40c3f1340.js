@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[49],{"./menu.json":function(e){e.exports=JSON.parse('{"key":"examples-starter","uriPath":"examples-starter","icon":"RocketIcon","permissions":["ViewProducts","ManageProducts"],"featureToggle":null,"submenu":[],"labelAllLocales":[{"locale":"en","value":"Clone app"},{"locale":"de","value":"Clone app"},{"locale":"es","value":"Clone app"}]}')}}]);
+//# sourceMappingURL=49.49.5d83eb6a75d40c3f1340.js.map

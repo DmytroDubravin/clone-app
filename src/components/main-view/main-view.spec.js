@@ -13,7 +13,7 @@ describe('main view', () => {
       permissions: { canViewProducts: true, canManageProducts: true },
       route: initialRoute,
     });
-    await waitForElement(() => getByText(/Hello, world/i));
+    await waitForElement(() => getByText(/Clone app/i));
 
     fireEvent.click(getByText(/Page one/i));
 

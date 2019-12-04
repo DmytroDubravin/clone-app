@@ -7,8 +7,8 @@
         0
       ],
       "assets": [
-        "runtime~app.75b82dff54cc6fa9613f.js",
-        "runtime~app.75b82dff54cc6fa9613f.js.map",
+        "runtime~app.c4e1fbcc64d159e8d830.js",
+        "runtime~app.c4e1fbcc64d159e8d830.js.map",
         "39.vendors~app.6b58f3135b3533f4b889.js",
         "39.vendors~app.6b58f3135b3533f4b889.js.map",
         "0.app.217ca9ce4c0740f3d794.js",
@@ -356,8 +356,8 @@
       "emitted": true
     },
     {
-      "name": "2.app-i18n-en.4dda999ecf5be9ee70d8.js",
-      "size": 344,
+      "name": "2.app-i18n-en.3c1a718fb640d4af77e8.js",
+      "size": 341,
       "chunks": [
         2
       ],
@@ -370,7 +370,7 @@
       "emitted": true
     },
     {
-      "name": "2.app-i18n-en.4dda999ecf5be9ee70d8.js.map",
+      "name": "2.app-i18n-en.3c1a718fb640d4af77e8.js.map",
       "size": 114,
       "chunks": [
         2
@@ -888,7 +888,7 @@
       "emitted": true
     },
     {
-      "name": "38.starter-routes.c3ec5419d3b50e036c63.css",
+      "name": "38.starter-routes.16791b59f8f50a118b95.css",
       "size": 64,
       "chunks": [
         38
@@ -902,8 +902,8 @@
       "emitted": true
     },
     {
-      "name": "38.starter-routes.c3ec5419d3b50e036c63.js",
-      "size": 19564,
+      "name": "38.starter-routes.16791b59f8f50a118b95.js",
+      "size": 19561,
       "chunks": [
         38
       ],
@@ -916,8 +916,8 @@
       "emitted": true
     },
     {
-      "name": "38.starter-routes.c3ec5419d3b50e036c63.js.map",
-      "size": 24295,
+      "name": "38.starter-routes.16791b59f8f50a118b95.js.map",
+      "size": 24291,
       "chunks": [
         38
       ],
@@ -1254,8 +1254,8 @@
       "emitted": true
     },
     {
-      "name": "49.49.b0929812094bc8024804.js",
-      "size": 447,
+      "name": "49.49.5d83eb6a75d40c3f1340.js",
+      "size": 453,
       "chunks": [
         49
       ],
@@ -1266,7 +1266,7 @@
       "emitted": true
     },
     {
-      "name": "49.49.b0929812094bc8024804.js.map",
+      "name": "49.49.5d83eb6a75d40c3f1340.js.map",
       "size": 106,
       "chunks": [
         49
@@ -1426,7 +1426,7 @@
       "emitted": true
     },
     {
-      "name": "runtime~app.75b82dff54cc6fa9613f.js",
+      "name": "runtime~app.c4e1fbcc64d159e8d830.js",
       "size": 7930,
       "chunks": [
         37
@@ -1440,7 +1440,7 @@
       "emitted": true
     },
     {
-      "name": "runtime~app.75b82dff54cc6fa9613f.js.map",
+      "name": "runtime~app.c4e1fbcc64d159e8d830.js.map",
       "size": 23937,
       "chunks": [
         37
@@ -1455,5 +1455,5 @@
     }
   ],
   "publicPath": "",
-  "time": 31586
+  "time": 12094
 }
