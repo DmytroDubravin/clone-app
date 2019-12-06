@@ -1,5 +1,5 @@
 {
-  "script-src": ["dev.aws.rcom-chtr.projects.epam.com"],
-  "connect-src": ["dev.aws.rcom-chtr.projects.epam.com"],
-  "style-src": ["dev.aws.rcom-chtr.projects.epam.com"]
+  "script-src": ["dev-ctmc.aws.rcom-chtr.projects.epam.com"],
+  "connect-src": ["dev-ctmc.aws.rcom-chtr.projects.epam.com"],
+  "style-src": ["dev-ctmc.aws.rcom-chtr.projects.epam.com"]
 }
